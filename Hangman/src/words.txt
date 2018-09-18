@@ -1,0 +1,24 @@
+_Cars
+BMW
+Mercedes
+Honda
+Mazda
+Nissan
+Saab
+Toyota
+Renault
+_English football teams
+Liverpool
+Chelsea
+Tottenham Hotspur
+Manchester United
+Manchester City
+Arsenal
+Everton
+_Brands
+Adidas
+Apple
+Bosch
+Lenovo
+Nike
+Coca Cola
